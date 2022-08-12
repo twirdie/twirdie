@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @twirdie
-- 👀 Welcome to my github profile.
-- 🌱 I’m currently learning how to be a paster.
+<img align="left" src="https://i.imgur.com/EiAIQq1.gif" width="250" /> 
 
-<!---
-twirdie/twirdie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-.
+```python
+Check out my profile and projects
+Leave a star while your at it :)
+ -------------
+
+     Name  =  "Emir"
+  Telegram =  "@twirdie777"
+  Discord  =  "twirdie#1337"
+  Steam    =  "https://steamcommunity.com/id/twirdie1337/"
+  Spotify  =  "https://open.spotify.com/user/313u5j33pelowrb2jmrpep2dwora?si=441317e86d744feb"
+  Website  =  "Soon"
+```
