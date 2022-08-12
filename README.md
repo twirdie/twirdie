@@ -3,7 +3,7 @@
 ```python
  -------------
 
-     Name  =  "Emir"
+  Name  =  "Emir"
   Telegram =  "@twirdie777"
   Discord  =  "twirdie#1337"
   Steam    =  "https://steamcommunity.com/id/twirdie1337/"
