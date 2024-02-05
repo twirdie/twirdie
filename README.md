@@ -3,11 +3,6 @@
 ```python
  -------------
 
-  Name     =  "Emir"
-  Telegram =  "@twirdiethefinest"
-  Discord  =  "twirdie#7929"
-  Steam    =  "https://steamcommunity.com/id/twirdie1337/"
-  Spotify  =  "https://open.spotify.com/user/313u5j33pelowrb2jmrpep2dwora"
 
  -------------
 ```
